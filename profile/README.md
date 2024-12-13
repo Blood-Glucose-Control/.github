@@ -12,3 +12,5 @@
 -->
 
 Welcome to the Blood Glucose Control AI Design Team organization page!
+
+Our hugging face account: [Blood-Glucose-Control](https://huggingface.co/Blood-Glucose-Control)
